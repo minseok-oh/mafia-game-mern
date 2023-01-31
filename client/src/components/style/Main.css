@@ -1,0 +1,14 @@
+#main {
+  text-align: center;
+}
+
+#main img {
+  width: 15%;
+  height: 15%;
+  border-radius: 50%;
+}
+
+#main-button {
+  margin: auto;
+  display: block;
+}
